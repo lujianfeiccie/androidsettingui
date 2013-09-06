@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_bg">#fff0f3f6</color><!-- 背景色 -->
+    <color name="button_selected">#ff419de4</color><!-- 按钮点击颜色 -->
+    <color name="white">#ffffffff</color>
+    <color name="shape_line">#ffcccccc</color><!-- 边框颜色 -->
+</resources>
